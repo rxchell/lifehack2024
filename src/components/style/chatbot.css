@@ -1,0 +1,21 @@
+:root {
+    --primaryColor: #124881;
+    --secondaryColor: #3774aa;
+    --cardColor: #96b1cb;
+    --backgroundColor: #cedded; 
+}
+
+.chat-button {
+    background-color: var(--primaryColor);
+    width: 60px;
+    height: 60px;
+    border-radius: 30px;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    cursor: pointer;
+}
+
+.chat-button:hover {
+    background-color: var(--secondaryColor);
+}

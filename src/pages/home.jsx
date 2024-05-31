@@ -1,15 +1,26 @@
 import React from 'react';
 import { useNavigate } from "react-router-dom";
+import './style/home.css';
+
+import Header from '../components/header';
+import Chatbot from '../components/chatbot';
 
 function Home() {
     const navigate = useNavigate();
 
-    return <div>
+    return (
+        <div className="Home">
+            <Header />
+            <Chatbot />
 
-        <h1>ScamSense</h1>
-        <button onClick={() => navigate('/quizpage')}>Quiz</button>
-        <button>Chatbot</button>
-    </div>;
+            <div className="home-content">
+                <h1 className="home-title">Home page</h1>
+                <p className="home-description">Description</p>
+            </div>
+        </div>
+    )
+
+        
 
 }
 
