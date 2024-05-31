@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useRef } from 'react';
 import { useNavigate } from "react-router-dom";
 import './style/quiz_cards.css';
 
@@ -7,10 +7,12 @@ function QuizCard (props) {
 
     const { data } = props;
 
+
+
     return (
-        <div className="quiz-card">
+        <div className="quiz-card" onClick={() => navigate('/quizpage')} title="Test your knowledge!">
             <p className="quiz-card-title">{data.title}</p>
-            <p className="quiz-card-description">{data.description}</p>
+            <img src={data.img} alt={data.title} className="quiz-card-image" />
         </div>
     )
 }
