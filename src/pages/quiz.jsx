@@ -9,7 +9,7 @@ function QuizPage() {
     return (
         <div>
             <Header />
-        <h1>Quiz Page</h1>
+        <h1 className='pages-title'>Quiz Page</h1>
         </div>
     );
 }
