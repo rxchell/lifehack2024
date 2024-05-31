@@ -1,0 +1,50 @@
+:root {
+    --primaryColor: #124881;
+    --secondaryColor: #3774aa;
+    --cardColor: #96b1cb;
+    --backgroundColor: #cedded; 
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+    background-color: var(--primaryColor);
+    justify-content: space-between;
+}
+
+.header-title {
+    display: flex;
+    flex-direction: row;
+    margin: 0px 40px 0px 40px;
+    align-items: center;
+    cursor: pointer;
+}
+
+.logo {
+    width: 40px;
+    margin-right: 10px;
+
+}
+
+.title {
+    color: white;
+}
+
+.header-buttons {
+    display: flex;
+    flex-direction: row;
+    padding: 0px 50px 0px 50px;
+}
+
+.button {
+    margin: 0 20px 0 20px;
+    width: 100px;
+    border-style: none;
+    color: white;
+    background-color: var(--primaryColor);
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: var(--secondaryColor); /* replace with the color you want on hover */
+}
