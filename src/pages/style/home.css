@@ -9,6 +9,11 @@
     position: relative;
 }
 
+.home-description {
+    padding-left: 20px;
+    font-size: 18px;
+}
+
 .quiz-cards {
     display: flex;
     flex-wrap: wrap;
