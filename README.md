@@ -10,6 +10,8 @@ Tackling Financial Frauds
 The escalating threat of financial frauds poses a significant challenge to the financial well-being of individuals and businesses. Current anti-scam strategies are faced with gaps in public awareness, legal limitations and ever evolving scam tactics employed by fraudsters. Implement a comprehensive solution to combat bank scams that effectively addresses the above challenges.
 
 # Our Solution: [ScamSense](https://scamsense.vercel.app/)
+<img width="1470" alt="Screenshot 2024-06-01 at 01 25 04" src="https://github.com/rxchell/lifehack2024/assets/133939424/47e83a95-08a6-4676-97d7-31f24bff2569">
+
 **ScamSense** is a web application designed to combat the escalating threat of financial frauds. 
 
 It focuses on raising public awareness, strengthening anti-scam strategies, and enhancing legal protection for both individuals and businesses. 
@@ -25,6 +27,9 @@ It focuses on raising public awareness, strengthening anti-scam strategies, and 
 - By actively involving users in the learning process, quizzes enhance retention of information and prepare users to identify scams effectively.
 
 ### Comprehensive Resources
+<img width="1470" alt="Screenshot 2024-06-01 at 01 26 53" src="https://github.com/rxchell/lifehack2024/assets/133939424/f8385ef3-71bf-42aa-bfd1-109973ea3817">
+<img width="1455" alt="Screenshot 2024-06-01 at 01 27 32" src="https://github.com/rxchell/lifehack2024/assets/133939424/ef59dcf8-f434-4356-8d4f-bdafabc78ad8">
+
 - A rich library of resources including articles, videos, infographics, and guides about financial scams and prevention techniques.
 - Resources are categorized for easy navigation and cover a wide range of topics from common scams to the latest tactics used by fraudsters.
 - Providing accessible and up-to-date information helps bridge the gap in public awareness, equipping users with the knowledge needed to safeguard their financial well-being.
