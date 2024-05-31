@@ -34,7 +34,7 @@ It focuses on raising public awareness, strengthening anti-scam strategies, and 
 - The chatbot uses natural language processing to understand and respond to queries, providing quick and accurate information or directing users to relevant resources.
 - The chatbot ensures that users receive immediate support and guidance, enhancing their ability to respond promptly to suspicious activities and reducing the time window for potential fraud.
 
-## How **ScamSense** Tackles the Problem Statement:
+## How [ScamSense](https://scamsense.vercel.app/) Tackles the Problem Statement
 
 ### Raising Public Awareness
 - Quizzes and resources actively engage users, making learning about financial frauds interactive and memorable.
