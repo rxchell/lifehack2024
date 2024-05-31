@@ -1,8 +1,26 @@
 [
     {
         "url": "quiz-001",
-        "title": "Quiz 1",
-        "description": "This is the first quiz"
-
+        "img": "/",
+        "title": "Types of Financial Fraud",
+        "description": "Test your knowledge!"
+    },
+    {
+        "url": "quiz-002",
+        "img": "/",
+        "title": "Identifying Phishing Emails",
+        "description": "Test your knowledge!"
+    },
+    {
+        "url": "quiz-003",
+        "img": "/",
+        "title": "Protecting Your Identity",
+        "description": "Test your knowledge!"
+    },
+    {
+        "url": "quiz-004",
+        "img": "/",
+        "title": "Investment scams",
+        "description": "Test your knowledge!"
     }
 ]
