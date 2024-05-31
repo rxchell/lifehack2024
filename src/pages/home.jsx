@@ -1,9 +1,11 @@
 import React from 'react';
 import { useNavigate } from "react-router-dom";
 import './style/home.css';
+import quiz from '../data/quiz.json';
 
 import Header from '../components/header';
 import Chatbot from '../components/chatbot';
+import QuizCard from '../components/quiz_cards';
 
 function Home() {
     const navigate = useNavigate();
@@ -16,6 +18,12 @@ function Home() {
             <div className="home-content">
                 <h1 className="home-title">Home page</h1>
                 <p className="home-description">Description</p>
+
+                <div className="quiz-cards">
+                    {quiz.map((quizItem) => (
+                        <QuizCard key={quizItem.url} data={quizItem} />
+                    ))}
+                </div>
             </div>
         </div>
     )
