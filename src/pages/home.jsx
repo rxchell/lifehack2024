@@ -16,6 +16,7 @@ function Home() {
             <div className="home-content">
                 <h1 className="home-title">Home page</h1>
                 <p className="home-description">Description</p>
+                <button onClick={() => navigate('/new-page')}>new page</button>
             </div>
         </div>
     )

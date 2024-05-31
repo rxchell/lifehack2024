@@ -1,4 +1,3 @@
-import shield from './assets/shield.svg';
 import './App.css';
 import {
   BrowserRouter as Router,
