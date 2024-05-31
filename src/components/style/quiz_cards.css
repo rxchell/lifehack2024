@@ -1,0 +1,23 @@
+:root {
+    --primaryColor: #124881;
+    --secondaryColor: #3774aa;
+    --cardColor: #96b1cb;
+    --backgroundColor: #cedded; 
+}
+
+.quiz-card {
+    background-color: var(--backgroundColor);
+    color: black;
+    padding: 0 30px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.quiz-card:hover {
+    background-color: var(--cardColor);
+    box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.3);
+}
+
+.quiz-card-title {
+    font-weight: bold;
+}
