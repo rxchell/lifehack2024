@@ -18,7 +18,7 @@ function Home() {
 
             <div className="home-content">
                 <h1 className="pages-title">Home</h1>
-                <p className="home-description">Description</p>
+                <p className="home-description">Let's combat financial frauds!</p>
 
                 <div className="quiz-cards">
                     {quiz.map((quizItem) => (
