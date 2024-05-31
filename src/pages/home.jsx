@@ -1,6 +1,7 @@
 import React from 'react';
 import { useNavigate } from "react-router-dom";
 import './style/home.css';
+import './style/pages.css';
 import quiz from '../data/quiz.json';
 
 import Header from '../components/header';
@@ -16,7 +17,7 @@ function Home() {
             <Chatbot />
 
             <div className="home-content">
-                <h1 className="home-title">Home page</h1>
+                <h1 className="pages-title">Home</h1>
                 <p className="home-description">Description</p>
 
                 <div className="quiz-cards">

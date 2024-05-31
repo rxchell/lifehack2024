@@ -1,0 +1,41 @@
+[
+    {
+        "url": "https://www.tech.gov.sg/media/technews/top-five-scams-in-singapore-and-how-to-protect-yourself",
+        "img": "/",
+        "title": "Types of Financial Fraud",
+        "description1": "1. Phishing scams",
+        "description2": "2. Job scams",
+        "description3": "3. E-commerce scams",
+        "description4": "4. Investment scams",
+        "description5": "5. Fake friend call scams"
+    },
+    {
+        "url": "https://www.csa.gov.sg/our-programmes/cybersecurity-outreach/cybersecurity-campaigns/the-unseen-enemy-campaign/beware-of-phishing-scams",
+        "img": "/",
+        "title": "Identifying Phishing Emails",
+        "description1": "1. Suspicious links ",
+        "description2": "2. Unexpected emails from unknown sender",
+        "description3": "3. Personal information requests",
+        "description4": "4. Urgent requests",
+        "description5": "5. Untrustworthy websites"
+    },
+    {
+        "url": "https://www.pdpc.gov.sg/overview-of-pdpa/data-protection/individual/protecting-your-personal-data",
+        "img": "/",
+        "title": "Protecting Your Identity",
+        "description1": "1. Strong passwords ",
+        "description2": "2. Two-Factor authentication",
+        "description3": "3. Secure personal documents",
+        "description4": "4. Use secure connections",
+        "description5": "5. Be cautious online"
+    },
+    {
+        "url": "https://www.iras.gov.sg/news-events/announcements/scam-advisory/investment-scam#:~:text=If%20you%20are%20asked%20to,financial%20institutions%20or%20cryptocurrency%20companies",
+        "img": "/",
+        "title": "Investment scams",
+        "description1": "1. Too-Good-To-Be-True Offers",
+        "description2": "2. Pressure Tactics",
+        "description3": "3. Unsolicited Offers",
+        "description4": "4. Avoid Unregulated Platforms",
+        "description5": "5. Verify Credentials"    }
+]
