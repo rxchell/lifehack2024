@@ -1,25 +1,25 @@
 [
     {
-        "url": "quiz-001",
-        "img": "/",
+        "url": "quiz001",
+        "img": "financial_fraud.jpg",
         "title": "Types of Financial Fraud",
         "description": "Test your knowledge!"
     },
     {
-        "url": "quiz-002",
-        "img": "/",
+        "url": "quiz002",
+        "img": "phishing.png",
         "title": "Identifying Phishing Emails",
         "description": "Test your knowledge!"
     },
     {
-        "url": "quiz-003",
-        "img": "/",
+        "url": "quiz003",
+        "img": "identity_fraud.jpeg",
         "title": "Protecting Your Identity",
         "description": "Test your knowledge!"
     },
     {
-        "url": "quiz-004",
-        "img": "/",
+        "url": "quiz004",
+        "img": "investment_scam.jpeg",
         "title": "Investment scams",
         "description": "Test your knowledge!"
     }
