@@ -7,6 +7,15 @@
     margin: 20px 0px 20px 0px;
 }
 
+
+.content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem;
+    margin-bottom: 100px;
+}
+
 .pages-subtitle{
     padding-left: 20px;
     color: var(--primaryColor);
@@ -27,4 +36,5 @@
     font-weight: bold;
     margin: 20px 0px 20px 0px;
     padding-bottom: 50px;
+
 }

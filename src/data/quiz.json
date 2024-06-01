@@ -22,5 +22,23 @@
         "img": "investment_scam.jpeg",
         "title": "Investment scams",
         "description": "Test your knowledge!"
+    }, 
+    {
+        "url": "quiz005",
+        "img": "job_scam.jpg",
+        "title": "Job Scams",
+        "description": "Test your knowledge!"
+    },
+    {
+        "url": "quiz006",
+        "img": "romance_scam.png",
+        "title": "Romance Scams",
+        "description": "Test your knowledge!"
+    },
+    {
+        "url": "quiz007",
+        "img": "rental_scam.jpg",
+        "title": "Rental Scams",
+        "description": "Test your knowledge!"
     }
 ]
