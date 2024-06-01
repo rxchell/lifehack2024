@@ -1,0 +1,38 @@
+.contact-button {
+    position: absolute;
+    top: 370px;
+    left: 900px;
+    background-color: rgb(133, 243, 223);
+    border-radius: 15px;
+}
+
+.link-button {
+    position: absolute;
+    top: 640px;
+    left: 570px;
+    background-color: rgb(133, 243, 223);
+    border-radius: 15px;
+}
+
+.legitimate-button {
+    position: absolute;
+    top: 960px;
+    left:550px;
+    background-color: rgb(133, 243, 223);
+    border-radius: 15px;
+}
+
+.dialogheader {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-bottom: 50px;
+}
+
+.dialogtext {
+    font-size: 25px;
+}
+
+.header-desc {
+    padding-left: 200px;
+}

@@ -5,13 +5,14 @@ import './style/pages.css';
 
 import Header from '../components/header';
 import QuizCard from '../components/quiz_cards';
+import Header from '../components/header';
+import Footer from '../components/footer'
 
 function QuizPage() {
-    const navigate = useNavigate();
-
     return (
         <div >
             <Header />
+
             <h1 className='pages-title'>Quiz Page</h1>
 
             <div className="content" overflow="scroll">
@@ -19,6 +20,9 @@ function QuizPage() {
                     <QuizCard key={quizItem.url} data={quizItem} />
                 ))}
             </div>
+
+            <Footer />
+
         </div>
     );
 }

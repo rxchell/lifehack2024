@@ -7,10 +7,33 @@
     margin: 20px 0px 20px 0px;
 }
 
+
 .content {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     gap: 1rem;
     margin-bottom: 50px;
+
+.pages-subtitle{
+    padding-left: 20px;
+    color: var(--primaryColor);
+    font-size: 22px;
+    font-weight: semi-bold;
+    margin: 20px 0px 20px 0px;
+    padding-bottom: 10px;
+}
+
+.helpline-description{
+    padding-left: 20px;
+    font-weight: bold;
+    margin: 20px 0px 20px 0px;
+}
+
+.report-description{
+    padding-left: 20px;
+    font-weight: bold;
+    margin: 20px 0px 20px 0px;
+    padding-bottom: 50px;
+
 }

@@ -20,6 +20,24 @@
         "description5": "5. Untrustworthy websites"
     },
     {
+        "url": "https://www.iras.gov.sg/news-events/announcements/scam-advisory/investment-scam#:~:text=If%20you%20are%20asked%20to,financial%20institutions%20or%20cryptocurrency%20companies",
+        "img": "/",
+        "title": "Investment scams",
+        "description1": "1. Too-Good-To-Be-True Offers",
+        "description2": "2. Pressure Tactics",
+        "description3": "3. Unsolicited Offers",
+        "description4": "4. Avoid Unregulated Platforms",
+        "description5": "5. Verify Credentials"    },
+    {
+        "url": "https://www.smartnation.gov.sg/media-hub/press-releases/04072022/",
+        "img": "/",
+        "title": "Stay safe from scams",
+        "description1": "1. Stop",
+        "description2": "2. Check",
+        "description3": "3. Go",
+        "description4": "",
+        "description5": ""    },
+    {
         "url": "https://www.pdpc.gov.sg/overview-of-pdpa/data-protection/individual/protecting-your-personal-data",
         "img": "/",
         "title": "Protecting Your Identity",
@@ -28,14 +46,5 @@
         "description3": "3. Secure personal documents",
         "description4": "4. Use secure connections",
         "description5": "5. Be cautious online"
-    },
-    {
-        "url": "https://www.iras.gov.sg/news-events/announcements/scam-advisory/investment-scam#:~:text=If%20you%20are%20asked%20to,financial%20institutions%20or%20cryptocurrency%20companies",
-        "img": "/",
-        "title": "Investment scams",
-        "description1": "1. Too-Good-To-Be-True Offers",
-        "description2": "2. Pressure Tactics",
-        "description3": "3. Unsolicited Offers",
-        "description4": "4. Avoid Unregulated Platforms",
-        "description5": "5. Verify Credentials"    }
+    }
 ]
