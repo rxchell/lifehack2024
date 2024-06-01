@@ -9,6 +9,7 @@ import {
 import Home from './pages/home';
 import ResourcesPage from './pages/resources';
 import QuizPage from './pages/quiz';
+import PhishyActivity from './pages/PhishyActivity';
 import Contact from './pages/contact';
 
 function App() {
@@ -18,6 +19,7 @@ function App() {
             <Route exact path="/" element={<Home />} />
             <Route path="/resources" element={<ResourcesPage />} />
             <Route path="/quizpage" element={<QuizPage />} />
+            <Route path="/PhishyActivity" element={<PhishyActivity />} />
             <Route path="/contact" element={<Contact />} />
         </Routes>
       </BrowserRouter>

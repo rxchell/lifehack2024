@@ -4,7 +4,6 @@ import './style/pages.css';
 import quiz from '../data/quiz.json';
 
 import Header from '../components/header';
-import Chatbot from '../components/chatbot';
 import QuizCard from '../components/quiz_cards';
 import Footer from '../components/footer';
 
@@ -12,7 +11,6 @@ function Home() {
     return (
         <div className="Home">
             <Header />
-            <Chatbot />
 
             <div className="home-content">
                 <h1 className="pages-title">Welcome to ScamSense</h1>

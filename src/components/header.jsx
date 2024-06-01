@@ -16,6 +16,7 @@ function Header() {
             <div className="header-buttons">
                 <button className='button' onClick={() => navigate('/resources')}>Resources</button>
                 <button className='button' onClick={() => navigate('/quizpage')}>Quiz</button>
+                <button className='button2' onClick={() => navigate('/PhishyActivity')}>PhishyActivity</button>
             </div>
         </div>
     )
