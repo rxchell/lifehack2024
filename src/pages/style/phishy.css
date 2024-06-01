@@ -1,23 +1,23 @@
 .contact-button {
     position: absolute;
-    top: 370px;
-    left: 900px;
+    top: 350px;
+    left: 470px;
     background-color: rgb(133, 243, 223);
     border-radius: 15px;
 }
 
 .link-button {
     position: absolute;
-    top: 640px;
-    left: 570px;
+    top: 555px;
+    left: 210px;
     background-color: rgb(133, 243, 223);
     border-radius: 15px;
 }
 
 .legitimate-button {
     position: absolute;
-    top: 960px;
-    left:550px;
+    top: 790px;
+    left: 200px;
     background-color: rgb(133, 243, 223);
     border-radius: 15px;
 }
@@ -34,5 +34,6 @@
 }
 
 .header-desc {
-    padding-left: 200px;
+    padding-left: 50px;
+    font-size: 20px;
 }
