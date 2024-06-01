@@ -1,6 +1,4 @@
 #  LifeHack 2024
-
-<img width="1451" alt="Screenshot 2024-06-01 at 12 35 32" src="https://github.com/rxchell/lifehack2024/assets/133939424/e271f1dc-8487-405b-81ae-5815d58bca95">
 [DEMO VIDEO HERE](https://drive.google.com/file/d/1UMlfBXg4gcHQUE3GU-POJVf5ciLv_e8S/view)
 
 ## Digital Threats: Tackling Financial Frauds
