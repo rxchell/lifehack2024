@@ -7,6 +7,15 @@
     margin: 20px 0px 20px 0px;
 }
 
+.pages-subtitle{
+    padding-left: 20px;
+    color: var(--primaryColor);
+    font-size: 22px;
+    font-weight: semi-bold;
+    margin: 20px 0px 20px 0px;
+    padding-bottom: 10px;
+}
+
 .helpline-description{
     padding-left: 20px;
     font-weight: bold;

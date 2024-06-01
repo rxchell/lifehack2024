@@ -1,15 +1,13 @@
 import React from 'react';
-import { useNavigate } from "react-router-dom";
-
 import Header from '../components/header';
+import Footer from '../components/footer'
 
 function QuizPage() {
-    const navigate = useNavigate();
-
     return (
         <div>
             <Header />
-        <h1 className='pages-title'>Quiz</h1>
+            <h1 className='pages-title'>Quiz</h1>
+            <Footer />
         </div>
     );
 }
