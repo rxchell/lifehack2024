@@ -1,4 +1,6 @@
 #  LifeHack 2024
+[LINK TO DEMO VIDEO HERE](https://drive.google.com/drive/folders/1uUWZBCqIQO3TVV8VHkBxHUy9Uf4o9VVQ?usp=drive_link)
+<br>
 
 ## Digital Threats: Tackling Financial Frauds
 
@@ -6,6 +8,9 @@
 The escalating threat of financial frauds poses a significant challenge to the financial well-being of individuals and businesses. Current anti-scam strategies are faced with gaps in public awareness, legal limitations and ever evolving scam tactics employed by fraudsters. Implement a comprehensive solution to combat bank scams that effectively addresses the above challenges.
 
 # Our Solution: [ScamSense](https://scamsense.vercel.app/)
+[WATCH THE DEMO VIDEO HERE](https://drive.google.com/drive/folders/1uUWZBCqIQO3TVV8VHkBxHUy9Uf4o9VVQ?usp=drive_link)
+<br>
+
 <img width="1456" alt="Screenshot 2024-06-01 at 11 35 57" src="https://github.com/rxchell/lifehack2024/assets/133939424/e82c8ed2-c4f0-48d7-8cfb-4e99aa10433e">
 
 **ScamSense** is a web application designed to combat the escalating threat of financial frauds. 
