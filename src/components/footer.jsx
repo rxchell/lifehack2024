@@ -5,10 +5,10 @@ const Footer = () => (
   <footer className="footer">
     <div className="footer-content">
       <div className="links">
-        <a href="/about">About Us</a>
+        <a href="/">About Us</a>
         <a href="/contact">Contact</a>
-        <a href="/privacy">Privacy Policy</a>
         <a href="/resources#helpline">Helpline</a>
+        <a href="/">Privacy Policy</a>
       </div>
     </div>
   </footer>
