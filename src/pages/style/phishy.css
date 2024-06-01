@@ -1,22 +1,22 @@
 .contact-button {
     position: absolute;
     top: 370px;
-    left: 900px;
+    left: 700px;
     background-color: rgb(133, 243, 223);
     border-radius: 15px;
 }
 
 .link-button {
     position: absolute;
-    top: 640px;
-    left: 570px;
+    top: 550px;
+    left: 400px;
     background-color: rgb(133, 243, 223);
     border-radius: 15px;
 }
 
 .legitimate-button {
     position: absolute;
-    top: 960px;
+    top: 760px;
     left:550px;
     background-color: rgb(133, 243, 223);
     border-radius: 15px;
@@ -31,8 +31,4 @@
 
 .dialogtext {
     font-size: 25px;
-}
-
-.header-desc {
-    padding-left: 200px;
 }

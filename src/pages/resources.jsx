@@ -32,6 +32,7 @@ function ResourcesPage() {
             <p className='helpline-description'>Anti-Scam Helpline: 1800-722-6688 (Mon-Fri: 9am to 6pm, excluding Public Holidays)</p>
             <p className='report-description'>Report a scam: https://form.gov.sg/63982e109841390011a5912</p>
 
+            <Chatbot />
             <Footer />
         </div>
     )

@@ -6,6 +6,7 @@ import quiz from '../data/quiz.json';
 import Header from '../components/header';
 import QuizCard from '../components/quiz_cards';
 import Footer from '../components/footer';
+import Chatbot from '../components/chatbot';
 
 function Home() {
     return (
@@ -26,6 +27,7 @@ function Home() {
                     ))}
                 </div>
             </div>
+            <Chatbot />
             <Footer />
         </div>
     )

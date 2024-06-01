@@ -2,8 +2,10 @@ import React, { useState } from 'react';
 import { useNavigate } from "react-router-dom";
 import Modal from 'react-modal';
 import './style/phishy.css';
+import './style/pages.css';
 
 import Header from '../components/header';
+import Footer from '../components/footer';
 
 Modal.setAppElement('#root'); // Set the root element for screen readers
 
@@ -38,12 +40,12 @@ function PhishyActivity() {
             <Header />
 
             <div>
-                <h1 style={{paddingLeft: 150, paddingTop:50, paddingBottom:30 }}>PhishyActivity</h1>
+                <h1 className="pages-title">PhishyActivity</h1>
 
-                <h3 className='header-desc'> In this short interactive activity, read the following email and while doing so, <br></br> click on the buttons to learn more about phishing scams!</h3>
+                <h3 className='pages-subtitle'> In this short interactive activity, read the following email and while doing so, <br></br> click on the buttons to learn more about phishing scams!</h3>
                 <img src='https://assets-global.website-files.com/5e5ff4f0165cd367cc7ca88f/6009ee9b3df69940df6be88e_Screen%20Shot%202020-11-24%20at%205.38.49%20PM.png' 
                 alt='Phishing email example'
-                style={{ width: 1150, height: 800, paddingLeft: 400}}/>
+                style={{ width: 800, height: 600, paddingLeft: 0}}/>
                 
                 <button className='contact-button'
                     onClick={openModal0}> Hmm... did I contact them? </button>
@@ -118,6 +120,8 @@ function PhishyActivity() {
                     But think again! Is the sender really from Apple Care support? Nowadays, most scammers are skilled and can impersonate reputable organisations well.</p>
                     <button onClick={closeModal2}>Close</button>
                 </Modal>
+
+                <Footer />
             </div>
         </div>
     )
