@@ -62,7 +62,7 @@ function PhishyActivity() {
                         contentLabel="Dialog Box"
                     >
                         <div className='dialogheader'>
-                            <h1>If you did not send or request for anything from the sender, it could be a phishing email!</h1>
+                            <h2>If you did not send or request for anything from the sender, it could be a phishing email!</h2>
                         </div>
                         
                         <p className='dialogtext'>Most phishing emails are often unsolicited. You didn't ask ask for it; they just sent it to you.
@@ -78,7 +78,7 @@ function PhishyActivity() {
                     style={{
                         content: {
                             width: '50%', // Set the width of the modal
-                            height: '50%',
+                            height: '60%',
                             backgroundColor: 'gold',
                         }
                     }}
@@ -102,7 +102,7 @@ function PhishyActivity() {
                     style={{
                         content: {
                             width: '50%', // Set the width of the modal
-                            height: '50%',
+                            height: '70%',
                             backgroundColor: 'gold',
                         }
                     }}
