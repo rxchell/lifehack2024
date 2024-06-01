@@ -11,13 +11,14 @@
 
 .home-description {
     padding-left: 20px;
-    font-size: 18px;
+    padding-bottom: 30px;
+    font-size: 25px;
 }
 
 .quiz-cards {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 1rem;
+    gap: 2rem;
 
 }
