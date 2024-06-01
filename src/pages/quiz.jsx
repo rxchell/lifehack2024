@@ -5,7 +5,6 @@ import './style/pages.css';
 
 import Header from '../components/header';
 import QuizCard from '../components/quiz_cards';
-import Header from '../components/header';
 import Footer from '../components/footer'
 
 function QuizPage() {

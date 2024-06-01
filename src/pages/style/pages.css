@@ -13,7 +13,8 @@
     flex-wrap: wrap;
     justify-content: center;
     gap: 1rem;
-    margin-bottom: 50px;
+    margin-bottom: 100px;
+}
 
 .pages-subtitle{
     padding-left: 20px;
