@@ -30,7 +30,10 @@ It focuses on raising public awareness, strengthening anti-scam strategies, and 
 - Resources are categorized for easy navigation and cover a wide range of topics from common scams to the latest tactics used by fraudsters.
 - Providing accessible and up-to-date information helps bridge the gap in public awareness, equipping users with the knowledge needed to safeguard their financial well-being.
 
-### Responsive Chatbot
+### Interactive Educational Page (Phishy Activity)
+In this page, users will read the email given and click on the buttons beside suspicious parts of a phishing email. This way users will be able to learn more about the things to look out for in an email, to identify it as a phishing scam. This way, users will be better equipped with the knowledge about phishing scams and will not be easy targets.
+
+### Responsive Chatbot (Proposed Implementation for the future)
 - An AI chatbot is integrated into ScamSense to offer instant assistance and answer users' questions about financial frauds.
 - The chatbot uses natural language processing to understand and respond to queries, providing quick and accurate information or directing users to relevant resources.
 - The chatbot ensures that users receive immediate support and guidance, enhancing their ability to respond promptly to suspicious activities and reducing the time window for potential fraud.
