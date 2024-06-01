@@ -53,7 +53,7 @@ It focuses on raising public awareness, strengthening anti-scam strategies, and 
 - Guidance and resources in the platform help users understand their legal rights and the steps they can take if they become victims of fraud.
 - Immediate support from the chatbot can direct users to legal resources and professional advice, helping them respond quickly and effectively to scams.
 
-### Conclusion
+## Conclusion
 ScamSense provides a comprehensive and proactive approach to combating financial fraud. By combining interactive education, accessible resources, and real-time support, ScamSense empowers users to protect themselves and their businesses from the ever-evolving tactics of fraudsters. This holistic solution not only enhances public awareness but also strengthens current anti-scam strategies and improves the legal community's ability to safeguard financial well-being.
 
 
