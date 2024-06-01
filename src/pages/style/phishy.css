@@ -8,7 +8,7 @@
 
 .link-button {
     position: absolute;
-    top: 555px;
+    top: 557px;
     left: 210px;
     background-color: rgb(133, 243, 223);
     border-radius: 15px;
@@ -26,11 +26,11 @@
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    padding-bottom: 50px;
+    padding-bottom: 5px;
 }
 
 .dialogtext {
-    font-size: 25px;
+    font-size: 18px;
 }
 
 .header-desc {
