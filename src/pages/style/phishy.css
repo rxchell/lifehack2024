@@ -1,6 +1,6 @@
 .contact-button {
     position: absolute;
-    top: 350px;
+    top: 335px;
     left: 470px;
     background-color: rgb(133, 243, 223);
     border-radius: 15px;
@@ -8,16 +8,16 @@
 
 .link-button {
     position: absolute;
-    top: 557px;
-    left: 210px;
+    top: 545px;
+    left: 250px;
     background-color: rgb(133, 243, 223);
     border-radius: 15px;
 }
 
 .legitimate-button {
     position: absolute;
-    top: 790px;
-    left: 200px;
+    top: 780px;
+    left: 210px;
     background-color: rgb(133, 243, 223);
     border-radius: 15px;
 }
