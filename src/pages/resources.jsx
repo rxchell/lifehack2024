@@ -5,6 +5,7 @@ import ResourceCard from '../components/resource_cards';
 import website from '../data/website.json';
 import WebsiteCard from '../components/website_cards';
 import './style/pages.css';
+import Footer from '../components/footer';
 
 function ResourcesPage() {
     return (
@@ -27,9 +28,11 @@ function ResourcesPage() {
             </div>
 
             <br />
-            <h1 className='pages-title'>Helpline</h1>
+            <h1 id="helpline" className='pages-title'>Helpline</h1>
             <p className='helpline-description'>Anti-Scam Helpline: 1800-722-6688 (Mon-Fri: 9am to 6pm, excluding Public Holidays)</p>
             <p className='report-description'>Report a scam: https://form.gov.sg/63982e109841390011a5912</p>
+
+            <Footer />
         </div>
     )
 }
