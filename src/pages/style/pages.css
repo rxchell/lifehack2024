@@ -6,3 +6,11 @@
     font-weight: bold;
     margin: 20px 0px 20px 0px;
 }
+
+.content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem;
+    margin-bottom: 50px;
+}

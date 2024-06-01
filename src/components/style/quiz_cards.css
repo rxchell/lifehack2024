@@ -20,11 +20,12 @@
 
 .quiz-card-title {
     font-weight: bold;
+    font-size: larger;
     padding:  0 30px;
 }
 
 .quiz-card-image {
-    height: 150px;
+    height: 200px;
     width: 100%;
     margin: 0;
     padding: 0;
